@@ -1,38 +1,43 @@
-# ME1303-Folding-chair
-Folding Chair Project —  As part of the ME1303 Basic Manufacturing Process module, our team designed and built a folding chair that combines strength, usability, and compact design.
+#  Folding Chair Project — ME1303 Basic Manufacturing Process
 
-Key Features
+###  First-Year Group Project 
 
-Durable: Strong box bar frame structure
+As part of the **ME1303 Basic Manufacturing Process** module, our team designed and built a **folding chair** that combines strength, usability, and compact design.  
 
-Foldable: Compact design, easy to store in small spaces
+---
 
-User-Friendly: Simple to use and maintain
+##  Key Features
+- **Durable:** Strong box bar frame structure  
+- **Foldable:** Compact design, easy to store in small spaces  
+- **User-Friendly:** Simple to use and maintain  
+- **Safe & Reliable:** Stable and sturdy design  
 
-Safe & Reliable: Stable and sturdy design
+---
 
-Materials Used
+##  Materials Used
+- Box bar – for the chair frame  
+- Wood – for the seating surface  
+- Nuts – for joints and assembly  
 
-Box bar — for the chair frame
+---
 
-Wood — for the seating surface
+##  Manufacturing Processes
+- **Welding:** For assembling the metal frame  
+- **Grinding:** To achieve a smooth surface finish  
+- **Wood Shaping:** For contouring the seat  
+- **Milling:** For precise hole cutting  
 
-Nuts — for joints and assembly
+---
 
-Manufacturing Processes
+##  Group Members
+- **Gihan Chamara**  
+- **Thiruna Naween**  
+- **Malindu Prabath**
 
-Welding: For assembling the metal frame
+---
 
-Grinding: To achieve a smooth surface finish
+##  Module Information
+**Course:** ME1303 – Basic Manufacturing Process  
+**Year:** First Year, 2023  
 
-Wood Shaping: For contouring the seat
-
-Milling: For precise hole cutting
-
-Group Members
-
-Gihan Chamara
-
-Thiruna Naween
-
-Malindu Prabath
+---
